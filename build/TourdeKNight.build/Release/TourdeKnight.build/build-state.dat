@@ -1,0 +1,1038 @@
+TTourdeKnight
+v7
+r0
+t330551138.147305
+cCheck dependencies
+cProcessInfoPlistFile "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/TourdeKnight.app/Contents/Info.plist" TourdeKnight-Info.plist
+cCopyStringsFile "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/TourdeKnight.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/English.lproj/MainMenu.xib"
+cCpResource build/Release/TourdeKnight.app/Contents/Resources/Scanner.qtz Scanner.qtz
+cProcessPCH /var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-hjiovlwdgidcqvawywpmrnqbvhlg/TourdeKnight_Prefix.pch.gch TourdeKnight_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-fzqjrmulkughfncsigximfthulzz/TourdeKnight_Prefix.pch.gch TourdeKnight_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/main.o "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/KnightsTourAppDelegate.o "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/KnightsTourAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/KnightView.o "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/KnightView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/main.o "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/KnightsTourAppDelegate.o "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/KnightsTourAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/KnightView.o "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/KnightView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/TourdeKnight" normal i386
+cLd "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/TourdeKnight" normal x86_64
+cCreateUniversalBinary "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/TourdeKnight.app/Contents/MacOS/TourdeKnight" normal "x86_64 i386"
+cGenerateDSYMFile "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/TourdeKnight.app.dSYM" "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/TourdeKnight.app/Contents/MacOS/TourdeKnight"
+cTouch "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/TourdeKnight.app"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004E39A74900000000000000EE
+t1312401225
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Headers/Quartz.h
+c000000004CC4396E0000000000000124
+t1287928174
+s292
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Quartz
+c000000004D5A279100000000000036E0
+t1297754001
+s14048
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC4130B00000000000000BF
+t1287918347
+s191
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004B5FA877000000000000A5E0
+t1264560247
+s42464
+
+N/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004DF9F8E10000000000D00CA0
+t1308227809
+s13634720
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/English.lproj/InfoPlist.strings
+c000000004DDA98FD000000000000002D
+t1306171645
+s45
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/English.lproj/MainMenu.xib
+c000000004DE79DA9000000000000FC7E
+t1307024809
+s64638
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/KnightView.h
+c000000004DE79AF100000000000007DA
+t1307024113
+s2010
+i<Cocoa/Cocoa.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/KnightView.m
+c000000004DE79C3100000000000038F4
+t1307024433
+s14580
+i"KnightView.h"
+i<Quartz/Quartz.h>
+i<math.h>
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/KnightsTourAppDelegate.h
+c000000004DDB83000000000000000142
+t1306231552
+s322
+i<Cocoa/Cocoa.h>
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/KnightsTourAppDelegate.m
+c000000004DDB8300000000000000017B
+t1306231552
+s379
+i"KnightsTourAppDelegate.h"
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/Scanner.qtz
+c000000004DDB7B860000000000017CFA
+t1306229638
+s97530
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/TourdeKnight_Prefix.pch
+c000000004DDA98FD0000000000000099
+t1306171645
+s153
+i<Cocoa/Cocoa.h>
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/TourdeKnight.app
+t1307024827
+s102
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/TourdeKnight.app.dSYM
+t1307024826
+s102
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/TourdeKnight.app/Contents/Info.plist
+t1307023687
+s1299
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/TourdeKnight.app/Contents/MacOS/TourdeKnight
+t1307024826
+s85012
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/TourdeKnight.app/Contents/PkgInfo
+t1307023687
+s8
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/TourdeKnight.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1307023687
+s92
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/TourdeKnight.app/Contents/Resources/English.lproj/MainMenu.nib
+t1307024824
+s9304
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/TourdeKnight.app/Contents/Resources/Scanner.qtz
+t1307023687
+s97530
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/KnightView.o
+t1307024826
+s55112
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/KnightsTourAppDelegate.o
+t1307023730
+s15420
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/TourdeKnight
+t1307024826
+s35860
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/TourdeKnight.LinkFileList
+c000000004DE7994700000000000001BF
+t1307023687
+s447
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/main.o
+t1307023730
+s4904
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/KnightView.o
+t1307024826
+s80696
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/KnightsTourAppDelegate.o
+t1307023721
+s21412
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/TourdeKnight
+t1307024826
+s44272
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/TourdeKnight.LinkFileList
+c000000004DE7994700000000000001C5
+t1307023687
+s453
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/main.o
+t1307023721
+s5104
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/StaticAnalyzer/normal/i386/KnightView.plist
+t2
+s0
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/StaticAnalyzer/normal/i386/KnightsTourAppDelegate.plist
+t2
+s0
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/StaticAnalyzer/normal/i386/main.plist
+t2
+s0
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/StaticAnalyzer/normal/x86_64/KnightView.plist
+t2
+s0
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/StaticAnalyzer/normal/x86_64/KnightsTourAppDelegate.plist
+t2
+s0
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/StaticAnalyzer/normal/x86_64/main.plist
+t2
+s0
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/main.m
+c000000004DDA98FD00000000000000F8
+t1306171645
+s248
+i<Cocoa/Cocoa.h>
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/English.lproj/InfoPlist.strings
+c000000004DDA98FD000000000000002D
+t1306171645
+s45
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/English.lproj/MainMenu.xib
+c000000004DE89E67000000000000FDB6
+t1307090535
+s64950
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/KnightView.h
+c000000004DE79AF100000000000007DA
+t1307024113
+s2010
+i<Cocoa/Cocoa.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/KnightView.m
+c000000004DEB2BDC0000000000003AC8
+t1307257820
+s15048
+i"KnightView.h"
+i<Quartz/Quartz.h>
+i<math.h>
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/KnightsTourAppDelegate.h
+c000000004DDB83000000000000000142
+t1306231552
+s322
+i<Cocoa/Cocoa.h>
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/KnightsTourAppDelegate.m
+c000000004DDB8300000000000000017B
+t1306231552
+s379
+i"KnightsTourAppDelegate.h"
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/Scanner.qtz
+c000000004DDB7B860000000000017CFA
+t1306229638
+s97530
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/TourdeKnight_Prefix.pch
+c000000004DDA98FD0000000000000099
+t1306171645
+s153
+i<Cocoa/Cocoa.h>
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release/TourdeKnight.app
+t1307275143
+s102
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release/TourdeKnight.app.dSYM
+t1307275143
+s102
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release/TourdeKnight.app/Contents/Info.plist
+t1307023687
+s1299
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release/TourdeKnight.app/Contents/MacOS/TourdeKnight
+t1307275142
+s85156
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release/TourdeKnight.app/Contents/PkgInfo
+t1307023687
+s8
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release/TourdeKnight.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1307023687
+s92
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release/TourdeKnight.app/Contents/Resources/English.lproj/MainMenu.nib
+t1307274986
+s9366
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release/TourdeKnight.app/Contents/Resources/Scanner.qtz
+t1307023687
+s97530
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/KnightView.o
+t1307275141
+s56100
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/KnightsTourAppDelegate.o
+t1307030369
+s15424
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/TourdeKnight
+t1307275142
+s36004
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/TourdeKnight.LinkFileList
+c000000004DE7B35500000000000001C8
+t1307030357
+s456
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/main.o
+t1307030368
+s4908
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/KnightView.o
+t1307275136
+s82188
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/KnightsTourAppDelegate.o
+t1307030367
+s21420
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/TourdeKnight
+t1307275141
+s44432
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/TourdeKnight.LinkFileList
+c000000004DE7B35500000000000001CE
+t1307030357
+s462
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/main.o
+t1307030367
+s5112
+
+N/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/main.m
+c000000004DDA98FD00000000000000F8
+t1306171645
+s248
+i<Cocoa/Cocoa.h>
+
+N/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/English.lproj/InfoPlist.strings
+c000000004DDA98FD000000000000002D
+t1306171645
+s45
+
+N/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/English.lproj/MainMenu.xib
+c000000004DE89E67000000000000FDB6
+t1307090535
+s64950
+
+N/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/KnightView.h
+c000000004DE79AF100000000000007DA
+t1307024113
+s2010
+i<Cocoa/Cocoa.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/KnightView.m
+c000000004E0397E00000000000003B4B
+t1308858336
+s15179
+i"KnightView.h"
+i<Quartz/Quartz.h>
+i<math.h>
+
+N/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/KnightsTourAppDelegate.h
+c000000004DDB83000000000000000142
+t1306231552
+s322
+i<Cocoa/Cocoa.h>
+
+N/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/KnightsTourAppDelegate.m
+c000000004DDB8300000000000000017B
+t1306231552
+s379
+i"KnightsTourAppDelegate.h"
+
+N/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/Scanner.qtz
+c000000004DDB7B860000000000017CFA
+t1306229638
+s97530
+
+N/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/TourdeKnight_Prefix.pch
+c000000004DDA98FD0000000000000099
+t1306171645
+s153
+i<Cocoa/Cocoa.h>
+
+N/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/TourdeKnight.app
+t1308858338
+s102
+
+N/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/TourdeKnight.app.dSYM
+t1308858337
+s102
+
+N/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/TourdeKnight.app/Contents/Info.plist
+t1307023687
+s1299
+
+N/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/TourdeKnight.app/Contents/MacOS/TourdeKnight
+t1308858337
+s85132
+
+N/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/TourdeKnight.app/Contents/PkgInfo
+t1307023687
+s8
+
+N/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/TourdeKnight.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1307023687
+s92
+
+N/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/TourdeKnight.app/Contents/Resources/English.lproj/MainMenu.nib
+t1307274986
+s9366
+
+N/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/TourdeKnight.app/Contents/Resources/Scanner.qtz
+t1307023687
+s97530
+
+N/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/KnightView.o
+t1308858337
+s56252
+
+N/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/KnightsTourAppDelegate.o
+t1308857982
+s15416
+
+N/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/TourdeKnight
+t1308858337
+s35980
+
+N/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/TourdeKnight.LinkFileList
+c000000004E03967600000000000001BC
+t1308857974
+s444
+
+N/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/main.o
+t1308857982
+s4900
+
+N/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/KnightView.o
+t1308858337
+s82412
+
+N/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/KnightsTourAppDelegate.o
+t1308857981
+s21412
+
+N/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/TourdeKnight
+t1308858337
+s44408
+
+N/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/TourdeKnight.LinkFileList
+c000000004E03967600000000000001C2
+t1308857974
+s450
+
+N/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/main.o
+t1308857981
+s5104
+
+N/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/main.m
+c000000004DDA98FD00000000000000F8
+t1306171645
+s248
+i<Cocoa/Cocoa.h>
+
+N/var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-bgxdktiyjlijuvafbgppcnqlrhey/TourdeKnight_Prefix.pch.pth
+t2
+s0
+
+N/var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-bsybmwchvkeqyhewtvynxcjxuwuh/TourdeKnight_Prefix.pch.pth
+t2
+s0
+
+N/var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-fqevlmopqbjfskdoinbghlqiilnw/TourdeKnight_Prefix.pch.gch
+t1307023715
+s52967184
+
+N/var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-fzqjrmulkughfncsigximfthulzz/TourdeKnight_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-gqknncknsxzumrchgpopwyltiwxz/TourdeKnight_Prefix.pch.gch
+t1307030366
+s55600944
+
+N/var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-gtbnotjgpxjfoxbkaswqsisfjjjn/TourdeKnight_Prefix.pch.gch
+t1307023715
+s55600944
+
+N/var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-hiknxxjieswpjtdsescxenonfbui/TourdeKnight_Prefix.pch.gch
+t1307030366
+s52967184
+
+N/var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-hjiovlwdgidcqvawywpmrnqbvhlg/TourdeKnight_Prefix.pch.gch
+t2
+s0
+
+NTourdeKnight-Info.plist
+c000000004DDA98FD00000000000003EA
+t1306171645
+s1002
+
+CAnalyze "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/KnightView.m"
+r0
+
+CAnalyze "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/KnightsTourAppDelegate.m"
+r0
+
+CAnalyze "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies330551136#330551136#0(0"0(0#1#0"8627864384#0"0#
+
+CCompileC build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/KnightView.o "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/KnightView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s328717624.871478
+e328717626.554512
+r1
+xCompileC
+xbuild/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/KnightView.o
+x/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/KnightView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/KnightView.m328717624#328717626#0(0"0(0#0#74"/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/KnightView.m8643175520#1882"    cd "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc-only -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-generated-files.hmap" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-own-target-headers.hmap" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-all-target-headers.hmap" -iquote "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-project-headers.hmap" "-F/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/include" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources/i386" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources" -include /var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-gtbnotjgpxjfoxbkaswqsisfjjjn/TourdeKnight_Prefix.pch -c "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/KnightView.m" -o "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/KnightView.o"0#
+
+CCompileC build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/KnightView.o "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/KnightView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s328967919.014300
+e328967941.745708
+r1
+xCompileC
+xbuild/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/KnightView.o
+x/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/KnightView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/KnightView.m328967919#328967941#0(0"0(0#0#77"/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/KnightView.m8603191520#1915"    cd "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc-only -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-generated-files.hmap" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-own-target-headers.hmap" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-all-target-headers.hmap" -iquote "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-project-headers.hmap" "-F/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release/include" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources/i386" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources" -include /var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-gqknncknsxzumrchgpopwyltiwxz/TourdeKnight_Prefix.pch -c "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/KnightView.m" -o "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/KnightView.o"0#
+
+CCompileC build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/KnightView.o "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/KnightView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s330551136.871600
+e330551137.558147
+r1
+xCompileC
+xbuild/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/KnightView.o
+x/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/KnightView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/KnightView.m330551136#330551137#0(0"0(0#0#73"/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/KnightView.m8614751264#1871"    cd "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc-only -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-generated-files.hmap" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-own-target-headers.hmap" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-all-target-headers.hmap" -iquote "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-project-headers.hmap" "-F/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/include" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources/i386" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources" -include /var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-fzqjrmulkughfncsigximfthulzz/TourdeKnight_Prefix.pch -c "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/KnightView.m" -o "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/KnightView.o"0#
+
+CCompileC build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/KnightsTourAppDelegate.o "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/KnightsTourAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s328716524.703885
+e328716530.794291
+r1
+xCompileC
+xbuild/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/KnightsTourAppDelegate.o
+x/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/KnightsTourAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/KnightsTourAppDelegate.m328716524#328716530#0(0"0(0#0#86"/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/KnightsTourAppDelegate.m8642887872#1906"    cd "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc-only -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-generated-files.hmap" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-own-target-headers.hmap" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-all-target-headers.hmap" -iquote "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-project-headers.hmap" "-F/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/include" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources/i386" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources" -include /var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-gtbnotjgpxjfoxbkaswqsisfjjjn/TourdeKnight_Prefix.pch -c "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/KnightsTourAppDelegate.m" -o "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/KnightsTourAppDelegate.o"0#
+
+CCompileC build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/KnightsTourAppDelegate.o "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/KnightsTourAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s328723168.859534
+e328723169.177340
+r1
+xCompileC
+xbuild/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/KnightsTourAppDelegate.o
+x/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/KnightsTourAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/KnightsTourAppDelegate.m328723168#328723169#0(0"0(0#0#89"/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/KnightsTourAppDelegate.m8603684512#1939"    cd "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc-only -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-generated-files.hmap" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-own-target-headers.hmap" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-all-target-headers.hmap" -iquote "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-project-headers.hmap" "-F/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release/include" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources/i386" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources" -include /var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-gqknncknsxzumrchgpopwyltiwxz/TourdeKnight_Prefix.pch -c "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/KnightsTourAppDelegate.m" -o "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/KnightsTourAppDelegate.o"0#
+
+CCompileC build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/KnightsTourAppDelegate.o "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/KnightsTourAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s330550782.358304
+e330550782.518481
+r1
+xCompileC
+xbuild/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/KnightsTourAppDelegate.o
+x/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/KnightsTourAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/KnightsTourAppDelegate.m330550782#330550782#0(0"0(0#0#85"/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/KnightsTourAppDelegate.m8618662624#1895"    cd "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc-only -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-generated-files.hmap" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-own-target-headers.hmap" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-all-target-headers.hmap" -iquote "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-project-headers.hmap" "-F/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/include" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources/i386" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources" -include /var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-fzqjrmulkughfncsigximfthulzz/TourdeKnight_Prefix.pch -c "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/KnightsTourAppDelegate.m" -o "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/KnightsTourAppDelegate.o"0#
+
+CCompileC build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/main.o "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s328716521.130100
+e328716530.773210
+r1
+xCompileC
+xbuild/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/main.o
+x/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/main.m328716521#328716530#0(0"0(0#0#68"/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/main.m8612543296#1870"    cd "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc-only -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-generated-files.hmap" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-own-target-headers.hmap" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-all-target-headers.hmap" -iquote "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-project-headers.hmap" "-F/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/include" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources/i386" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources" -include /var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-gtbnotjgpxjfoxbkaswqsisfjjjn/TourdeKnight_Prefix.pch -c "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/main.m" -o "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/main.o "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s328723167.934774
+e328723168.859399
+r1
+xCompileC
+xbuild/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/main.o
+x/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/main.m328723167#328723168#0(0"0(0#0#71"/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/main.m8615413312#1903"    cd "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc-only -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-generated-files.hmap" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-own-target-headers.hmap" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-all-target-headers.hmap" -iquote "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-project-headers.hmap" "-F/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release/include" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources/i386" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources" -include /var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-gqknncknsxzumrchgpopwyltiwxz/TourdeKnight_Prefix.pch -c "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/main.m" -o "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/main.o "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s330550781.884237
+e330550782.358114
+r1
+xCompileC
+xbuild/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/main.o
+x/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/main.m330550781#330550782#0(0"0(0#0#67"/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/main.m8613529856#1859"    cd "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc-only -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-generated-files.hmap" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-own-target-headers.hmap" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-all-target-headers.hmap" -iquote "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-project-headers.hmap" "-F/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/include" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources/i386" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources" -include /var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-fzqjrmulkughfncsigximfthulzz/TourdeKnight_Prefix.pch -c "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/main.m" -o "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/KnightView.o "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/KnightView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s328717624.869924
+e328717626.499497
+r1
+xCompileC
+xbuild/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/KnightView.o
+x/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/KnightView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/KnightView.m328717624#328717626#0(0"0(0#0#74"/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/KnightView.m8644018624#1888"    cd "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc-only -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-generated-files.hmap" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-own-target-headers.hmap" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-all-target-headers.hmap" -iquote "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-project-headers.hmap" "-F/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/include" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources/x86_64" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources" -include /var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-fqevlmopqbjfskdoinbghlqiilnw/TourdeKnight_Prefix.pch -c "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/KnightView.m" -o "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/KnightView.o"0#
+
+CCompileC build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/KnightView.o "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/KnightView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s328967919.012742
+e328967936.988835
+r1
+xCompileC
+xbuild/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/KnightView.o
+x/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/KnightView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/KnightView.m328967919#328967936#0(0"0(0#0#77"/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/KnightView.m8029405159545332736#1921"    cd "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc-only -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-generated-files.hmap" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-own-target-headers.hmap" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-all-target-headers.hmap" -iquote "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-project-headers.hmap" "-F/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release/include" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources/x86_64" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources" -include /var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-hiknxxjieswpjtdsescxenonfbui/TourdeKnight_Prefix.pch -c "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/KnightView.m" -o "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/KnightView.o"0#
+
+CCompileC build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/KnightView.o "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/KnightView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s330551136.165034
+e330551137.574099
+r1
+xCompileC
+xbuild/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/KnightView.o
+x/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/KnightView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/KnightView.m330551136#330551137#0(0"0(0#0#73"/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/KnightView.m8627877760#1877"    cd "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc-only -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-generated-files.hmap" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-own-target-headers.hmap" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-all-target-headers.hmap" -iquote "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-project-headers.hmap" "-F/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/include" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources/x86_64" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources" -include /var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-hjiovlwdgidcqvawywpmrnqbvhlg/TourdeKnight_Prefix.pch -c "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/KnightView.m" -o "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/KnightView.o"0#
+
+CCompileC build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/KnightsTourAppDelegate.o "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/KnightsTourAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s328716515.821129
+e328716521.129957
+r1
+xCompileC
+xbuild/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/KnightsTourAppDelegate.o
+x/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/KnightsTourAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/KnightsTourAppDelegate.m328716515#328716521#0(0"0(0#0#86"/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/KnightsTourAppDelegate.m8624827424#1912"    cd "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc-only -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-generated-files.hmap" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-own-target-headers.hmap" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-all-target-headers.hmap" -iquote "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-project-headers.hmap" "-F/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/include" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources/x86_64" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources" -include /var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-fqevlmopqbjfskdoinbghlqiilnw/TourdeKnight_Prefix.pch -c "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/KnightsTourAppDelegate.m" -o "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/KnightsTourAppDelegate.o"0#
+
+CCompileC build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/KnightsTourAppDelegate.o "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/KnightsTourAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s328723167.088679
+e328723167.934659
+r1
+xCompileC
+xbuild/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/KnightsTourAppDelegate.o
+x/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/KnightsTourAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/KnightsTourAppDelegate.m328723167#328723167#0(0"0(0#0#89"/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/KnightsTourAppDelegate.m8614731744#1945"    cd "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc-only -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-generated-files.hmap" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-own-target-headers.hmap" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-all-target-headers.hmap" -iquote "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-project-headers.hmap" "-F/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release/include" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources/x86_64" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources" -include /var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-hiknxxjieswpjtdsescxenonfbui/TourdeKnight_Prefix.pch -c "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/KnightsTourAppDelegate.m" -o "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/KnightsTourAppDelegate.o"0#
+
+CCompileC build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/KnightsTourAppDelegate.o "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/KnightsTourAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s330550781.492805
+e330550781.884135
+r1
+xCompileC
+xbuild/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/KnightsTourAppDelegate.o
+x/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/KnightsTourAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/KnightsTourAppDelegate.m330550781#330550781#0(0"0(0#0#85"/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/KnightsTourAppDelegate.m8613857568#1901"    cd "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc-only -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-generated-files.hmap" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-own-target-headers.hmap" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-all-target-headers.hmap" -iquote "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-project-headers.hmap" "-F/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/include" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources/x86_64" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources" -include /var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-hjiovlwdgidcqvawywpmrnqbvhlg/TourdeKnight_Prefix.pch -c "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/KnightsTourAppDelegate.m" -o "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/KnightsTourAppDelegate.o"0#
+
+CCompileC build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/main.o "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s328716515.819508
+e328716521.026770
+r1
+xCompileC
+xbuild/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/main.o
+x/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/main.m328716515#328716521#0(0"0(0#0#68"/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/main.m8629404512#1876"    cd "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc-only -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-generated-files.hmap" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-own-target-headers.hmap" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-all-target-headers.hmap" -iquote "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-project-headers.hmap" "-F/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/include" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources/x86_64" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources" -include /var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-fqevlmopqbjfskdoinbghlqiilnw/TourdeKnight_Prefix.pch -c "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/main.m" -o "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/main.o "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s328723167.087030
+e328723167.894695
+r1
+xCompileC
+xbuild/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/main.o
+x/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/main.m328723167#328723167#0(0"0(0#0#71"/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/main.m8614866784#1909"    cd "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc-only -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-generated-files.hmap" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-own-target-headers.hmap" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-all-target-headers.hmap" -iquote "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-project-headers.hmap" "-F/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release/include" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources/x86_64" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources" -include /var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-hiknxxjieswpjtdsescxenonfbui/TourdeKnight_Prefix.pch -c "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/main.m" -o "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/main.o "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s330550781.472068
+e330550781.882682
+r1
+xCompileC
+xbuild/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/main.o
+x/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/main.m330550781#330550781#0(0"0(0#0#67"/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/main.m8614275136#1865"    cd "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc-only -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-generated-files.hmap" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-own-target-headers.hmap" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-all-target-headers.hmap" -iquote "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-project-headers.hmap" "-F/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/include" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources/x86_64" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources" -include /var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-hjiovlwdgidcqvawywpmrnqbvhlg/TourdeKnight_Prefix.pch -c "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/main.m" -o "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/main.o"0#
+
+CCompileXIB "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/English.lproj/MainMenu.xib"
+s328717623.938389
+e328717624.869375
+r1
+xCompileXIB
+x/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib328717623#328717624#0(0"0(0#0#88"/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/English.lproj/MainMenu.xib8629744064#446"    cd "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/TourdeKnight.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/English.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCompileXIB "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/English.lproj/MainMenu.xib"
+s328967784.790888
+e328967786.728835
+r1
+xCompileXIB
+x/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib328967784#328967786#0(0"0(0#0#91"/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/English.lproj/MainMenu.xib8531299974831428608#455"    cd "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release/TourdeKnight.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/English.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCompileXIB "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/English.lproj/MainMenu.xib"
+r0
+
+CCopyStringsFile "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/TourdeKnight.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s328716487.258423
+e328716487.834595
+r1
+xCopyStringsFile
+x/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/TourdeKnight.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings328716487#328716487#0(0"0(0#0#93"/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/English.lproj/InfoPlist.strings8644449376#422"    cd "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/TourdeKnight.app/Contents/Resources/English.lproj"0#
+
+CCopyStringsFile "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release/TourdeKnight.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/TourdeKnight.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CCpResource build/Release/TourdeKnight.app/Contents/Resources/Scanner.qtz Scanner.qtz
+s328716487.784003
+e328716487.851308
+r1
+xCpResource
+xbuild/Release/TourdeKnight.app/Contents/Resources/Scanner.qtz
+xScanner.qtz
+lSLF07#2@16"Copy Scanner.qtz328716487#328716487#0(0"0(0#0#73"/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/Scanner.qtz8644267936#444"    cd "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/Scanner.qtz" "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/TourdeKnight.app/Contents/Resources"0#
+
+CCreateUniversalBinary "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/TourdeKnight.app/Contents/MacOS/TourdeKnight" normal "x86_64 i386"
+s328717626.867997
+e328717626.871799
+r1
+xCreateUniversalBinary
+x/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/TourdeKnight.app/Contents/MacOS/TourdeKnight
+xnormal
+xx86_64 i386
+lSLF07#2@101"CreateUniversalBinary build/Release/TourdeKnight.app/Contents/MacOS/TourdeKnight normal "x86_64 i386"328717626#328717626#0(0"0(0#0#73"/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/x86_64 i3868641948832#528"    cd "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour"    /usr/bin/lipo -create "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/TourdeKnight" "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/TourdeKnight" -output "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/TourdeKnight.app/Contents/MacOS/TourdeKnight"0#
+
+CCreateUniversalBinary "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release/TourdeKnight.app/Contents/MacOS/TourdeKnight" normal "x86_64 i386"
+s328967942.402800
+e328967942.562541
+r1
+xCreateUniversalBinary
+x/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release/TourdeKnight.app/Contents/MacOS/TourdeKnight
+xnormal
+xx86_64 i386
+lSLF07#2@101"CreateUniversalBinary build/Release/TourdeKnight.app/Contents/MacOS/TourdeKnight normal "x86_64 i386"328967942#328967942#0(0"0(0#0#76"/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/x86_64 i3868600705984#540"    cd "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight"    /usr/bin/lipo -create "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/TourdeKnight" "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/TourdeKnight" -output "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release/TourdeKnight.app/Contents/MacOS/TourdeKnight"0#
+
+CCreateUniversalBinary "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/TourdeKnight.app/Contents/MacOS/TourdeKnight" normal "x86_64 i386"
+s330551137.855115
+e330551137.873095
+r1
+xCreateUniversalBinary
+x/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/TourdeKnight.app/Contents/MacOS/TourdeKnight
+xnormal
+xx86_64 i386
+lSLF07#2@101"CreateUniversalBinary build/Release/TourdeKnight.app/Contents/MacOS/TourdeKnight normal "x86_64 i386"330551137#330551137#0(0"0(0#0#72"/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/x86_64 i3868614839872#524"    cd "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight"    /usr/bin/lipo -create "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/TourdeKnight" "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/TourdeKnight" -output "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/TourdeKnight.app/Contents/MacOS/TourdeKnight"0#
+
+CGenerateDSYMFile "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/TourdeKnight.app.dSYM" "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/TourdeKnight.app/Contents/MacOS/TourdeKnight"
+s328717626.871893
+e328717627.106784
+r1
+xGenerateDSYMFile
+x/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/TourdeKnight.app.dSYM
+x/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/TourdeKnight.app/Contents/MacOS/TourdeKnight
+lSLF07#2@111"GenerateDSYMFile build/Release/TourdeKnight.app.dSYM build/Release/TourdeKnight.app/Contents/MacOS/TourdeKnight328717626#328717627#0(0"0(0#0#120"/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/TourdeKnight.app/Contents/MacOS/TourdeKnight8630550080#329"    cd "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour"    /Developer/usr/bin/dsymutil "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/TourdeKnight.app/Contents/MacOS/TourdeKnight" -o "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/TourdeKnight.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release/TourdeKnight.app.dSYM" "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release/TourdeKnight.app/Contents/MacOS/TourdeKnight"
+s328967942.562642
+e328967943.136288
+r1
+xGenerateDSYMFile
+x/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release/TourdeKnight.app.dSYM
+x/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release/TourdeKnight.app/Contents/MacOS/TourdeKnight
+lSLF07#2@111"GenerateDSYMFile build/Release/TourdeKnight.app.dSYM build/Release/TourdeKnight.app/Contents/MacOS/TourdeKnight328967942#328967943#0(0"0(0#0#123"/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release/TourdeKnight.app/Contents/MacOS/TourdeKnight8603548192#338"    cd "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight"    /Developer/usr/bin/dsymutil "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release/TourdeKnight.app/Contents/MacOS/TourdeKnight" -o "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release/TourdeKnight.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/TourdeKnight.app.dSYM" "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/TourdeKnight.app/Contents/MacOS/TourdeKnight"
+s330551137.873189
+e330551138.009122
+r1
+xGenerateDSYMFile
+x/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/TourdeKnight.app.dSYM
+x/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/TourdeKnight.app/Contents/MacOS/TourdeKnight
+lSLF07#2@111"GenerateDSYMFile build/Release/TourdeKnight.app.dSYM build/Release/TourdeKnight.app/Contents/MacOS/TourdeKnight330551137#330551138#0(0"0(0#0#119"/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/TourdeKnight.app/Contents/MacOS/TourdeKnight8627243424#326"    cd "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight"    /Developer/usr/bin/dsymutil "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/TourdeKnight.app/Contents/MacOS/TourdeKnight" -o "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/TourdeKnight.app.dSYM"0#
+
+CLd "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/TourdeKnight" normal i386
+s328717626.554628
+e328717626.867911
+r1
+xLd
+x/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/TourdeKnight
+xnormal
+xi386
+lSLF07#2@151"Link /Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/TourdeKnight328717626#328717626#0(0"0(0#0#0"8630809440#762"    cd "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release" "-F/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release" -filelist "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/TourdeKnight.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework QuartzCore -framework Quartz -o "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/TourdeKnight"0#
+
+CLd "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/TourdeKnight" normal x86_64
+s328717626.499685
+e328717626.867669
+r1
+xLd
+x/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/TourdeKnight
+xnormal
+xx86_64
+lSLF07#2@153"Link /Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/TourdeKnight328717626#328717626#0(0"0(0#0#0"8640087040#768"    cd "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release" "-F/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release" -filelist "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/TourdeKnight.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework QuartzCore -framework Quartz -o "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/TourdeKnight"0#
+
+CLd "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/TourdeKnight" normal i386
+s328967941.745867
+e328967942.402702
+r1
+xLd
+x/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/TourdeKnight
+xnormal
+xi386
+lSLF07#2@154"Link /Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/TourdeKnight328967941#328967942#0(0"0(0#0#0"8602772064#777"    cd "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release" "-F/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release" -filelist "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/TourdeKnight.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework QuartzCore -framework Quartz -o "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/TourdeKnight"0#
+
+CLd "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/TourdeKnight" normal x86_64
+s328967936.989139
+e328967941.881300
+r1
+xLd
+x/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/TourdeKnight
+xnormal
+xx86_64
+lSLF07#2@156"Link /Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/TourdeKnight328967936#328967941#0(0"0(0#0#0"8601009920#783"    cd "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release" "-F/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release" -filelist "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/TourdeKnight.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework QuartzCore -framework Quartz -o "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/TourdeKnight"0#
+
+CLd "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/TourdeKnight" normal i386
+s330551137.558244
+e330551137.855015
+r1
+xLd
+x/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/TourdeKnight
+xnormal
+xi386
+lSLF07#2@150"Link /Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/TourdeKnight330551137#330551137#0(0"0(0#0#0"8618422400#757"    cd "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release" "-F/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release" -filelist "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/TourdeKnight.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework QuartzCore -framework Quartz -o "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/i386/TourdeKnight"0#
+
+CLd "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/TourdeKnight" normal x86_64
+s330551137.574195
+e330551137.839700
+r1
+xLd
+x/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/TourdeKnight
+xnormal
+xx86_64
+lSLF07#2@152"Link /Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/TourdeKnight330551137#330551137#0(0"0(0#0#0"8615160384#763"    cd "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release" "-F/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release" -filelist "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/TourdeKnight.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework QuartzCore -framework Quartz -o "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/Objects-normal/x86_64/TourdeKnight"0#
+
+CProcessInfoPlistFile "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/TourdeKnight.app/Contents/Info.plist" TourdeKnight-Info.plist
+s328716487.254914
+e328716487.258315
+r1
+xProcessInfoPlistFile
+x/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/TourdeKnight.app/Contents/Info.plist
+xTourdeKnight-Info.plist
+lSLF07#2@31"Process TourdeKnight-Info.plist328716487#328716487#0(0"0(0#0#85"/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/TourdeKnight-Info.plist8647356480#404"    cd "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour"    builtin-infoPlistUtility TourdeKnight-Info.plist -genpkginfo "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/TourdeKnight.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/TourdeKnight.app/Contents/Info.plist"0#
+
+CProcessInfoPlistFile "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release/TourdeKnight.app/Contents/Info.plist" TourdeKnight-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/TourdeKnight.app/Contents/Info.plist" TourdeKnight-Info.plist
+r0
+
+CProcessPCH /var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-bgxdktiyjlijuvafbgppcnqlrhey/TourdeKnight_Prefix.pch.pth TourdeKnight_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+r0
+
+CProcessPCH /var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-bsybmwchvkeqyhewtvynxcjxuwuh/TourdeKnight_Prefix.pch.pth TourdeKnight_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+r0
+
+CProcessPCH /var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-fqevlmopqbjfskdoinbghlqiilnw/TourdeKnight_Prefix.pch.gch TourdeKnight_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s328716487.851430
+e328716515.801940
+r1
+xProcessPCH
+x/var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-fqevlmopqbjfskdoinbghlqiilnw/TourdeKnight_Prefix.pch.gch
+xTourdeKnight_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile TourdeKnight_Prefix.pch328716487#328716515#0(0"0(0#0#85"/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/TourdeKnight_Prefix.pch8642790464#1750"    cd "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc-only -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-generated-files.hmap" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-own-target-headers.hmap" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-all-target-headers.hmap" -iquote "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-project-headers.hmap" "-F/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/include" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources/x86_64" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources" -c "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/TourdeKnight_Prefix.pch" -o /var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-fqevlmopqbjfskdoinbghlqiilnw/TourdeKnight_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-fzqjrmulkughfncsigximfthulzz/TourdeKnight_Prefix.pch.gch TourdeKnight_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s330550774.757795
+e330550781.471956
+r1
+xProcessPCH
+x/var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-fzqjrmulkughfncsigximfthulzz/TourdeKnight_Prefix.pch.gch
+xTourdeKnight_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile TourdeKnight_Prefix.pch330550774#330550781#0(0"0(0#0#84"/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/TourdeKnight_Prefix.pch8613374496#1736"    cd "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc-only -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-generated-files.hmap" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-own-target-headers.hmap" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-all-target-headers.hmap" -iquote "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-project-headers.hmap" "-F/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/include" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources/i386" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources" -c "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/TourdeKnight_Prefix.pch" -o /var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-fzqjrmulkughfncsigximfthulzz/TourdeKnight_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-gqknncknsxzumrchgpopwyltiwxz/TourdeKnight_Prefix.pch.gch TourdeKnight_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s328723157.064283
+e328723167.086921
+r1
+xProcessPCH
+x/var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-gqknncknsxzumrchgpopwyltiwxz/TourdeKnight_Prefix.pch.gch
+xTourdeKnight_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile TourdeKnight_Prefix.pch328723157#328723167#0(0"0(0#0#88"/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/TourdeKnight_Prefix.pch8616941792#1776"    cd "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc-only -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-generated-files.hmap" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-own-target-headers.hmap" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-all-target-headers.hmap" -iquote "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-project-headers.hmap" "-F/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release/include" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources/i386" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources" -c "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/TourdeKnight_Prefix.pch" -o /var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-gqknncknsxzumrchgpopwyltiwxz/TourdeKnight_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-gtbnotjgpxjfoxbkaswqsisfjjjn/TourdeKnight_Prefix.pch.gch TourdeKnight_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s328716487.852405
+e328716515.819397
+r1
+xProcessPCH
+x/var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-gtbnotjgpxjfoxbkaswqsisfjjjn/TourdeKnight_Prefix.pch.gch
+xTourdeKnight_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile TourdeKnight_Prefix.pch328716487#328716515#0(0"0(0#0#85"/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/TourdeKnight_Prefix.pch8637780832#1746"    cd "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc-only -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-generated-files.hmap" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-own-target-headers.hmap" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-all-target-headers.hmap" -iquote "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-project-headers.hmap" "-F/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/include" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources/i386" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources" -c "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/TourdeKnight_Prefix.pch" -o /var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-gtbnotjgpxjfoxbkaswqsisfjjjn/TourdeKnight_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-hiknxxjieswpjtdsescxenonfbui/TourdeKnight_Prefix.pch.gch TourdeKnight_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s328723157.045352
+e328723166.857970
+r1
+xProcessPCH
+x/var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-hiknxxjieswpjtdsescxenonfbui/TourdeKnight_Prefix.pch.gch
+xTourdeKnight_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile TourdeKnight_Prefix.pch328723157#328723166#0(0"0(0#0#88"/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/TourdeKnight_Prefix.pch7451608328563880960#1780"    cd "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc-only -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-generated-files.hmap" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-own-target-headers.hmap" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-all-target-headers.hmap" -iquote "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-project-headers.hmap" "-F/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release/include" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources/x86_64" "-I/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources" -c "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/TourdeKnight_Prefix.pch" -o /var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-hiknxxjieswpjtdsescxenonfbui/TourdeKnight_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-hjiovlwdgidcqvawywpmrnqbvhlg/TourdeKnight_Prefix.pch.gch TourdeKnight_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s330550774.756650
+e330550780.481710
+r1
+xProcessPCH
+x/var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-hjiovlwdgidcqvawywpmrnqbvhlg/TourdeKnight_Prefix.pch.gch
+xTourdeKnight_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile TourdeKnight_Prefix.pch330550774#330550780#0(0"0(0#0#84"/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/TourdeKnight_Prefix.pch8614398304#1740"    cd "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc-only -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-generated-files.hmap" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-own-target-headers.hmap" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-all-target-headers.hmap" -iquote "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/TourdeKnight-project-headers.hmap" "-F/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/include" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources/x86_64" "-I/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/TourdeKNight.build/Release/TourdeKnight.build/DerivedSources" -c "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/TourdeKnight_Prefix.pch" -o /var/folders/Dm/DmPYnqecETeJuioGzaViKk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TourdeKnight_Prefix-hjiovlwdgidcqvawywpmrnqbvhlg/TourdeKnight_Prefix.pch.gch0#
+
+CTouch "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/TourdeKnight.app"
+s328717627.106892
+e328717627.109967
+r1
+xTouch
+x/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/TourdeKnight.app
+lSLF07#2@98"Touch /Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/TourdeKnight.app328717627#328717627#0(0"0(0#0#0"8610905344#188"    cd "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour"    /usr/bin/touch -c "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/KnightsTour/build/Release/TourdeKnight.app"0#
+
+CTouch "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release/TourdeKnight.app"
+s328967943.136381
+e328967943.186536
+r1
+xTouch
+x/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release/TourdeKnight.app
+lSLF07#2@101"Touch /Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release/TourdeKnight.app328967943#328967943#0(0"0(0#0#0"8602700512#194"    cd "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight"    /usr/bin/touch -c "/Users/ujjwalthaakar/Documents/Mac OS X Dev/Cocoa/Tour de Knight/build/Release/TourdeKnight.app"0#
+
+CTouch "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/TourdeKnight.app"
+s330551138.009401
+e330551138.147248
+r1
+xTouch
+x/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/TourdeKnight.app
+lSLF07#2@97"Touch /Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/TourdeKnight.app330551138#330551138#0(0"0(0#0#0"8632388096#186"    cd "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight"    /usr/bin/touch -c "/Users/ujjwalthaakar/Documents/Projects/Cocoa/Tour de Knight/build/Release/TourdeKnight.app"0#
+
